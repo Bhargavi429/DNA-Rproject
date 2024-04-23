@@ -1,0 +1,10 @@
+Package: Dna
+Type: Package
+Title: DNA Analysis
+Version: 0.0.0.9000
+Author: Bhargavi Gundamalla <bgundamalla@usf.com>
+Description: The Dna package provides functions to analyze DNA sequences. It includes functions to calculate the GC content of a DNA sequence, convert DNA sequences to RNA sequences, convert RNA sequences to Protein sequencesand upload FASTA sequences from files. These functions are useful for various bioinformatics and molecular biology applications.
+License: gpl3_license()
+Encoding: UTF-8
+Roxygen: markdown = TRUE
+RoxygenNote: 7.3.1

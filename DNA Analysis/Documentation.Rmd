@@ -1,0 +1,17 @@
+---
+title: "DNA analysis"
+author: "Bhargavi Gundamalla"
+date: "2024-04-23"
+output: html_document
+---
+
+```{r}
+source("C:/Users/BHARGAVI/OneDrive/Dna/R/functions.R")
+```
+
+### GC Content
+```{r}
+cat("GC Content:", gc_content, "\n")
+```
+
+
